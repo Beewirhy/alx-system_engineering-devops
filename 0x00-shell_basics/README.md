@@ -1,1 +1,1 @@
-0xoo-shell_basics
+script that prints the absolute path name of the current working directory
